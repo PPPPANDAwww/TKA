@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src1/icon/tka_cover.JPG</file>
+        <file>src1/resource.qrc</file>
+        <file>src1/video/zhanweidunzixunlian.mp4</file>
+    </qresource>
+</RCC>
